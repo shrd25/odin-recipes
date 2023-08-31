@@ -3,16 +3,23 @@
     <head>
         <meta charset="UTF-8">
         <title>Odin Recipes</title>
+        <link rel="stylesheet" href="style.css"> 
     </head>
     <body>
-        <h1>Odin Recipes</h1>
-        <img src="https://media3.giphy.com/media/cIyHhlLkVGSL3Cnc9o/giphy.gif?cid=ecf05e47t6xjbriy1r47v90cw3k2lb5cx3qq2i3m2srj9mzz&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Scared woman screams at flaming pan">
-        <p>Want to cook delicious meals under 30 minutes? Check these recipes out!</p>
+        <h1 class="header">Odin Recipes</h1>
+        <div class="img">
+        <img class="gif" src="https://media3.giphy.com/media/cIyHhlLkVGSL3Cnc9o/giphy.gif?cid=ecf05e47t6xjbriy1r47v90cw3k2lb5cx3qq2i3m2srj9mzz&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Scared woman screams at flaming pan">
+        </div>
+        <div class="body">
+        <p class="intro">Want to cook delicious meals under 30 minutes? <span class="intro italic">Check these recipes out!</span></p>
         <ul>
-        <li><a href="./recipes/garlic-shrimp.html">Garlic shrimp</a></li>
-        <li><a href="./recipes/lasagna.html">Lasagna</a></li>
-        <li><a href="./recipes/pesto-pasta.html">Pesto pasta</a></li>
+        <li><a class="link" href="./recipes/garlic-shrimp.html">Garlic shrimp</a></li>
+        <li><a class="link" href="./recipes/lasagna.html">Lasagna</a></li>
+        <li><a class="link" href="./recipes/pesto-pasta.html">Pesto pasta</a></li>
         </ul>
-        <a href="https://www.allrecipes.com/recipes/455/everyday-cooking/more-meal-ideas/30-minute-meals/">More 30-minute meals</a>
+        </div>
+        <div id="external-link">
+        <a class="link" href="https://www.allrecipes.com/recipes/455/everyday-cooking/more-meal-ideas/30-minute-meals/">More 30-minute meals</a>
+        </div>
     </body>
 </html>
