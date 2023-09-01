@@ -43,7 +43,7 @@ After completing the second phase of the project, I should be able to:
     * font (font-family, font-size, font-weight, font-style, text-decoration-...)
     * color (includig background-color)
     * text (text-align, text-transform, letter-spacing, word-spacing)
-    * images (width, height, how to align them using <div>)
+    * images (width, height, how to align them using div)
 * Understand the efects of cascading and its factors
     * specificity
     * inheritance
