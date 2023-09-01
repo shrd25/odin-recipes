@@ -23,6 +23,7 @@ After completing this project, I should be able to:
     * Write commit messages
 
 08/31/23: CSS
+
 After completing the second phase of the project, I should be able to:
 * Understand CSS syntax
 * Add CSS to HTML through different methods
