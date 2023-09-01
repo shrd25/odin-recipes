@@ -21,4 +21,31 @@ After completing this project, I should be able to:
     * Clone a repo
     * Modify, stage and commit changes
     * Write commit messages
+
+08/31/23: CSS
+After completing the second phase of the project, I should be able to:
+* Understand CSS syntax
+* Add CSS to HTML through different methods
+    * external method
+    * internal method
+    * inline method
+* Understand what selectors are and how to properly use them
+    * universal selector
+    * type selector
+    * class selector
+    * ID selector
+* Work with selectors
+    * grouping selectors
+    * chaining selectors
+    * combine selectors (descendant combinator only)
+* Declare basic properties
+    * font (font-family, font-size, font-weight, font-style, text-decoration-...)
+    * color (includig background-color)
+    * text (text-align, text-transform, letter-spacing, word-spacing)
+    * images (width, height, how to align them using <div>)
+* Understand the efects of cascading and its factors
+    * specificity
+    * inheritance
+    * rule order
+
     
