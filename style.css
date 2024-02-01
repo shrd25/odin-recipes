@@ -8,6 +8,9 @@ body {
     color: #000000;
     font-size: 40px;
     text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 8px;
 }
 
 h1 {
@@ -24,6 +27,7 @@ h1.header {
     height: auto;
     width: 400px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .img {
@@ -34,12 +38,10 @@ h1.header {
     font-weight: bold;
 }
 
-.italic {
-    font-style: italic;
-}
-
 .body {
     font-size: 24px;
+    width: 600px;
+    margin: 0 auto;
 }
 
 .font-size-content,
@@ -50,11 +52,27 @@ h1.header {
 .link {
     color: #07e8b4;
     background-color: #444747;
+
 }
+
+/*.recipe-index {
+    display: inline-block;
+    margin: 0 20px; 
+}*/
 
 #external-link {
     text-align: right;
     font-size: 18px;
+    margin-top: 100px;
+    padding: 0;
+}
+
+.card {
+    background-color: #d2fae8;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0px 10px;
+    border: 2px #444747 dotted;
 }
 
 .recipe-img {
